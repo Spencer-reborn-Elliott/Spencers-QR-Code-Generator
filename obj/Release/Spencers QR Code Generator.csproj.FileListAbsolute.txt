@@ -1,0 +1,12 @@
+C:\Users\Spencer\source\repos\Spencers QR Code Generator\bin\Release\Spencers QR Code Generator.exe.config
+C:\Users\Spencer\source\repos\Spencers QR Code Generator\bin\Release\Spencers QR Code Generator.exe
+C:\Users\Spencer\source\repos\Spencers QR Code Generator\bin\Release\Spencers QR Code Generator.pdb
+C:\Users\Spencer\source\repos\Spencers QR Code Generator\bin\Release\QRCoder.dll
+C:\Users\Spencer\source\repos\Spencers QR Code Generator\obj\Release\Spencers QR Code Generator.csprojAssemblyReference.cache
+C:\Users\Spencer\source\repos\Spencers QR Code Generator\obj\Release\Spencers_QR_Code_Generator.Form1.resources
+C:\Users\Spencer\source\repos\Spencers QR Code Generator\obj\Release\Spencers_QR_Code_Generator.Properties.Resources.resources
+C:\Users\Spencer\source\repos\Spencers QR Code Generator\obj\Release\Spencers QR Code Generator.csproj.GenerateResource.cache
+C:\Users\Spencer\source\repos\Spencers QR Code Generator\obj\Release\Spencers QR Code Generator.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\Spencers QR Code Generator\obj\Release\Spencers QR Code Generator.csproj.CopyComplete
+C:\Users\Spencer\source\repos\Spencers QR Code Generator\obj\Release\Spencers QR Code Generator.exe
+C:\Users\Spencer\source\repos\Spencers QR Code Generator\obj\Release\Spencers QR Code Generator.pdb
